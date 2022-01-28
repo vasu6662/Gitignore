@@ -1,1 +1,7 @@
 node_modules/
+#ingore all files ending with z
+*.z
+#ingore a file called .env
+.env
+#ingore a directory
+artifacts/
